@@ -24,11 +24,20 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 }
+.header-menu-link {
+    color: #2e2f42;   
+}
+.header-adress {
+font-style: normal;
+}
 .header-address-list {
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
+}
+.header-address-item {
+color: #434455;
 }
 .header-address-link, .header-menu-link {
 color: #404bbf;
@@ -91,3 +100,4 @@ letter-spacing: 2%;
 text-align: center;
 color: #2E2F42;
 }
+
