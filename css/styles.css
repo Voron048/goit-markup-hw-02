@@ -18,7 +18,7 @@ color: #4D5AE5;
 .header-logo-accent {
 color: #2E2F42; 
 }
-.header-menu { 
+.header-menu-item { 
 font-weight: 500;
 font-size: 16px;
 line-height: 150%;
@@ -29,13 +29,10 @@ color: #2e2f42;
 .header-address {
 font-style: normal;
 }
-.header-address-list {
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-}
 .header-address-item {
+font-size: 16px;
+ line-height: 150%;
+letter-spacing: 0.02em;
 color: #434455;
 }
 .header-address-link, .header-menu-link {
@@ -55,16 +52,14 @@ letter-spacing: 0.02em;
 .hero-btn {
 font-weight: 500;
 font-size: 16px;
+cursor: pointer;
 letter-spacing: 0.04em;
-line-height: 150%;
+line-height: 150%;                                                                                         
 vertical-align: middle;
 color: #fff;
 background-color: #4D5AE5
 }
-.hero-btn-link {
-background: #404bbf;
-cursor: pointer;
-}
+
 .features-subtitle {
 font-weight: 500;
 font-size: 20px;
