@@ -88,19 +88,18 @@ color: #434455
 .team {
 background-color: #F4F4FD;
 }
-h2 {
+.features-title {
 color: #2E2F42;
 text-align: center;
 text-transform: capitalize;
 font-weight: 700;
 font-size: 36px;
-line-height: 1.11;
+line-height: 111%;
 letter-spacing: 0.02em;
 }
 .team {
 background-color: #FFFFFF
 }
-
 .team-text {
 font-size: 16px;
 line-height: 24px;
