@@ -66,12 +66,7 @@ background-color: #4D5AE5
 .hero-btn:hover, .hero-btn:focus {
     background-color: #404BBF;
 }
-.features {
-background-color: #F4F4FD;
-}
-.features-item {
-background-color: #FFFFFF 
-}
+
 .features-subtitle {
 font-weight: 500;
 font-size: 20px;
@@ -88,7 +83,11 @@ color: #434455
 .team {
 background-color: #F4F4FD;
 }
-.features-title, .team-title {
+.team-item {
+background-color: #FFFFFF;
+}
+
+.portfolio-title, .team-title {
 color: #2E2F42;
 text-align: center;
 text-transform: capitalize;
