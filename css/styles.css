@@ -28,7 +28,7 @@ color: #2e2f42;
 .header-menu-link:hover, .header-menu-link:focus {
    color: #404bbf;
 }
-  
+
 .header-address {
 font-style: normal;
 }
@@ -91,10 +91,18 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 }
-.team-item {
+.team {
 background-color: #FFFFFF
 }
- 
+.team-title {
+color: #2E2F42;
+text-align: center;
+text-transform: capitalize;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+}
 .team-text {
 font-size: 16px;
 line-height: 24px;
