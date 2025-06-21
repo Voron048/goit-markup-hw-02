@@ -33,13 +33,14 @@ color: #2e2f42;
 font-style: normal;
 }
 .header-address-link {
+color: #434455;
 font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 }
 .header-address-link:hover, .header-address-link:focus {
-color: #404bbf;git
+color: #404bbf;
 }
 .hero {
     background-color: #2E2F42;
