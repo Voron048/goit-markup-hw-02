@@ -82,7 +82,7 @@ color: #434455
 .team {
 background-color: #F4F4FD;
 }
-.team-title, .features-title {
+h2 {
 color: #2E2F42;
 text-align: center;
 text-transform: capitalize;
